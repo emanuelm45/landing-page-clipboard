@@ -191,15 +191,15 @@ footer nav .footer-left .footer__navigation .navigation__link:hover {
   color: rgb(38, 186, 164);
 }
 footer nav .social-media {
-  width: 8rem;
+  width: 10rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 footer nav .social-media .social-media__link {
   display: block;
-  width: 2rem;
-  height: 2rem;
+  width: 1.6rem;
+  height: 1.6rem;
 }
 footer nav .social-media .social-media__link.facebook {
   background-image: url(./images/icon-facebook.svg);
@@ -211,7 +211,7 @@ footer nav .social-media .social-media__link.facebook:hover {
 footer nav .social-media .social-media__link.twitter {
   background-image: url(./images/icon-twitter.svg);
   background-size: cover;
-  width: 2.4rem;
+  width: 2rem;
 }
 footer nav .social-media .social-media__link.twitter:hover {
   background-image: url(./images/icon-twitter-hover.svg);

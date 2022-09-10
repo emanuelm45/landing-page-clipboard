@@ -224,15 +224,15 @@ footer {
         }
 
         .social-media {
-            width: 8rem;
+            width: 10rem;
             display: flex;
             align-items: center;
             justify-content: space-between;
 
             .social-media__link {
                 display: block;
-                width: 2rem;
-                height: 2rem;
+                width: 1.6rem;
+                height: 1.6rem;
             }
 
             .social-media__link.facebook {
@@ -241,7 +241,7 @@ footer {
 
             .social-media__link.twitter {
                 @include hover-image(url(./images/icon-twitter.svg), url(./images/icon-twitter-hover.svg));
-                width: 2.4rem;
+                width: 2rem;
             }
 
             .social-media__link.instagram {
