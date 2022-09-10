@@ -31,7 +31,9 @@ Users should be able to:
 
 #### Mobile Layout
 
-![Mobile](<img src="https://github.com/emanuelm45/portfolio-images/blob/main/clipboard-landing-page-master/mobile.png" style="margin: 0 auto;">)
+<p align="center">
+  <img src="https://github.com/emanuelm45/portfolio-images/blob/main/clipboard-landing-page-master/mobile.png">
+</p>
 
 ### Links
 
