@@ -15,7 +15,6 @@
 .DS_Store
 
 design/
-node_modules/
 index.css.map
 package-lock.json
 package.json
