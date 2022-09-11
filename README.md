@@ -27,12 +27,12 @@ Users should be able to:
 
 #### Desktop Layout
 
-![Desktop](https://github.com/emanuelm45/portfolio-images/blob/main/clipboard-landing-page-master/desktop.png)
+![Desktop](https://github.com/emanuelm45/portfolio-images/blob/main/landing-page-clipboard/desktop.png)
 
 #### Mobile Layout
 
 <p align="center">
-  <img src="https://github.com/emanuelm45/portfolio-images/blob/main/clipboard-landing-page-master/mobile.png">
+  <img src="https://github.com/emanuelm45/portfolio-images/blob/main/landing-page-clipboard/mobile.png">
 </p>
 
 ### Links
