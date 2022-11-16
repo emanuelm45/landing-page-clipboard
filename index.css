@@ -142,14 +142,14 @@ main .container-buttons .btn-download-ios {
   background-color: rgb(97, 115, 255);
 }
 main .container-buttons .btn-download-ios:hover {
-  background-color: white;
+  background-color: #7b8aff;
 }
 main .container-buttons .btn-download-mac {
   border-bottom-color: #919fa7;
   background-color: rgb(159, 171, 178);
 }
 main .container-buttons .btn-download-mac:hover {
-  background-color: white;
+  background-color: #adb7bd;
 }
 
 footer {
@@ -239,8 +239,8 @@ footer p.attribution {
 }
 @media (max-width: 768px) {
   main .clipboard-download-top p,
-main .tools p,
-main .clipboard-download-bottom p {
+  main .tools p,
+  main .clipboard-download-bottom p {
     max-width: 100%;
   }
   main .advantages {
